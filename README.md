@@ -7,7 +7,7 @@
 
 * sudo apt upgrade
 
-sudo apt install python3 git
+* sudo apt install python3 git
 
 * git clone https://github.com/Rahulgarg2206/Whatsapp_banner
 
