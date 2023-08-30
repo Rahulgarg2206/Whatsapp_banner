@@ -9,12 +9,12 @@
 
 sudo apt install python3 git
 
-* git clone https://github.com/Rahulgarg2206 /Whatsapp banner
+* git clone https://github.com/Rahulgarg2206/Whatsapp_banner
 
-cd Whatsapp_banner
+* cd Whatsapp_banner
 
 * python3 whatsapp banner.py
 
 ## Visiter
 
-<img src="https://profile-counter.glitch.me /kdo2064/count.svg" alt="Visitors">
+<img src="https://profile-counter.glitch.me/kdo2064/count.svg" alt="Visitors">
